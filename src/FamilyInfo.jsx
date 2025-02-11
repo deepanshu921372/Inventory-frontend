@@ -154,7 +154,6 @@ const FamilyInfo = ({ darkMode, toggleDarkMode }) => {
             backgroundColor: darkMode ? "#333" : "#fff",
             padding: '20px',
             borderRadius: '10px',
-            boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
             outline: "none",
             boxShadow: "none"
           }}
